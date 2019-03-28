@@ -44,3 +44,11 @@ http GET 'localhost:5000/restaurants/near/52.538554/13.4102856'
 http GET 'localhost:5000/restaurants/near/Berlin'
 http GET 'localhost:5000/restaurants/combo/noodles/vietnamese'
 ```
+
+or
+
+```
+http GET 'localhost/restaurants/near/52.538554/13.4102856'
+http GET 'localhost/restaurants/near/Berlin'
+http GET 'localhost/restaurants/combo/noodles/vietnamese'
+```
