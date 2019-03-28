@@ -24,6 +24,8 @@ cd restaurants
 
 # Docker
 
+Host port is 80.
+
 ```
 sudo apt install -y docker.io docker-compose
 docker-compose up
