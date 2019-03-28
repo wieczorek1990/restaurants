@@ -37,12 +37,19 @@ class GeoTest(unittest.TestCase):
                         second_restaurant['distance'])
 
     def test_near_address(self):
-        address = 'Berlin'
-        restaurants = geo.near_address(address)
-        self.assertIsInstance(restaurants, list)
-        first_restaurant = restaurants[0]
-        self.assertRestaurant(first_restaurant)
-        self.assertTrue('distance' in first_restaurant)
+        class LocationMock:
+            def __init__(self, lat, lon):
+                self.latitude = lat
+                self.longitude = lon
+
+        with mock.patch('geo.get_location',
+                        return_value=LocationMock(52.538554, 13.4102856)):
+            address = 'Berlin'
+            restaurants = geo.near_address(address)
+            self.assertIsInstance(restaurants, list)
+            first_restaurant = restaurants[0]
+            self.assertRestaurant(first_restaurant)
+            self.assertTrue('distance' in first_restaurant)
 
     def get_restaurants(self):
         return [

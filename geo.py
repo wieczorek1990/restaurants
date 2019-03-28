@@ -58,6 +58,16 @@ def near_coordinates(lat: float, lon: float) -> list:
     return sorted_near_restaurants[:10]
 
 
+def get_location(address: str):
+    """Fetches location using geopy.
+    :param address: Address
+    :returns: Location
+    :raises: geopy.exc.GeopyError
+    """
+    geocoder = geocoders.Nominatim(user_agent="restaurants")
+    return geocoder.geocode(address)
+
+
 def near_address(address: str) -> list:
     """Returns at most 10 near restaurants based on address.
 
@@ -66,8 +76,7 @@ def near_address(address: str) -> list:
     :returns: Restaurants
     :raises: geopy.exc.GeopyError
     """
-    geocoder = geocoders.Nominatim(user_agent="restaurants")
-    location = geocoder.geocode(address)
+    location = get_location(address)
     return near_coordinates(location.latitude, location.longitude)
 
 
