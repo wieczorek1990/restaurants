@@ -32,6 +32,11 @@ def get_restaurants_with_cuisine(restaurants: list) -> list:
     return restaurants_with_cuisine
 
 
+# TODO(lwieczorek): Remove global variables
+RESTAURANTS = get_restaurants()
+RESTAURANTS_WITH_CUISINE = get_restaurants_with_cuisine(RESTAURANTS)
+
+
 def near_coordinates(lat: float, lon: float) -> list:
     """Returns at most 10 near restaurants based on passed coordinates.
 
@@ -43,7 +48,7 @@ def near_coordinates(lat: float, lon: float) -> list:
     near_restaurants = []
     for restaurant in RESTAURANTS:
         restaurant_coordinates = (restaurant['lat'], restaurant['lon'])
-        restaurant_distance = distance.vincenty((lat, lon),
+        restaurant_distance = distance.distance((lat, lon),
                                                 restaurant_coordinates).km
         if restaurant_distance < 10.0:
             restaurant['distance'] = restaurant_distance
@@ -61,12 +66,12 @@ def near_address(address: str) -> list:
     :returns: Restaurants
     :raises: geopy.exc.GeopyError
     """
-    geocoder = geocoders.Nominatim()
+    geocoder = geocoders.Nominatim(user_agent="restaurants")
     location = geocoder.geocode(address)
     return near_coordinates(location.latitude, location.longitude)
 
 
-def filter_restaurants(cuisine: str) -> list:
+def filter_restaurants_by_cuisine(cuisine: str) -> list:
     """Returns filtered restaurants with cuisine data based on passed cuisine.
 
     :param cuisine: Cuisine
@@ -85,12 +90,12 @@ def combo(cuisine_a: str, cuisine_b: str) -> list:
     :returns: list[dict]
     :returns: Restaurants
     """
-    cuisine_a_restaurants = filter_restaurants(cuisine_a)
-    cuisine_b_restaurants = filter_restaurants(cuisine_b)
+    cuisine_a_restaurants = filter_restaurants_by_cuisine(cuisine_a)
+    cuisine_b_restaurants = filter_restaurants_by_cuisine(cuisine_b)
     near_restaurants = []
     for restaurant_a, restaurant_b in itertools.product(
             cuisine_a_restaurants, cuisine_b_restaurants):
-        restaurant_distance = distance.vincenty(
+        restaurant_distance = distance.distance(
                 (restaurant_a['lat'], restaurant_a['lon']),
                 (restaurant_b['lat'], restaurant_b['lon'])).km
         near_restaurants.append({'distance': restaurant_distance,
@@ -99,8 +104,3 @@ def combo(cuisine_a: str, cuisine_b: str) -> list:
     sorted_near_restaurants = sorted(near_restaurants,
                                      key=operator.itemgetter('distance'))
     return sorted_near_restaurants[:10]
-
-
-# TODO(lwieczorek): remove global variables
-RESTAURANTS = get_restaurants()
-RESTAURANTS_WITH_CUISINE = get_restaurants_with_cuisine(RESTAURANTS)
