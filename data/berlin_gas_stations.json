@@ -1,0 +1,2895 @@
+[
+  {
+    "type": "node",
+    "id": 16541597,
+    "lat": 52.5464403,
+    "lon": 13.3454394,
+    "tags": {
+      "amenity": "fuel",
+      "man_made": "surveillance",
+      "name": "Aral",
+      "surveillance": "outdoor",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 26756830,
+    "lat": 52.5308248,
+    "lon": 13.3281941,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "55",
+      "addr:postcode": "10553",
+      "addr:street": "Beusselstraße",
+      "addr:suburb": "Moabit",
+      "amenity": "fuel",
+      "brand": "Aral",
+      "name": "Aral",
+      "phone": "+49 30 3914404",
+      "website": "http://tankstelle.aral.de/tankstelle/berlin/beusselstrasse-55/28607100",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 26867411,
+    "lat": 52.5018511,
+    "lon": 13.294379,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "14",
+      "addr:postcode": "10711",
+      "addr:street": "Heilbronner Straße",
+      "addr:suburb": "Halensee",
+      "amenity": "fuel",
+      "name": "Bavaria petrol",
+      "operator": "Bavaria Petrol"
+    }
+  },
+  {
+    "type": "node",
+    "id": 26882421,
+    "lat": 52.4842654,
+    "lon": 13.3206691,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Aral",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 27088369,
+    "lat": 52.4345195,
+    "lon": 13.1916491,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "120",
+      "addr:postcode": "14129",
+      "addr:street": "Kronprinzessinnenweg",
+      "addr:suburb": "Nikolassee",
+      "amenity": "fuel",
+      "fax": "+49 30 80402607",
+      "name": "AGIP Service Station",
+      "operator": "SSP Deutschland GmbH",
+      "phone": "+49 30 8037233",
+      "ref": "7020",
+      "ref:vatin": "DE04724368921"
+    }
+  },
+  {
+    "type": "node",
+    "id": 27259583,
+    "lat": 52.5197229,
+    "lon": 13.3413153,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "4",
+      "addr:postcode": "10555",
+      "addr:street": "Lessingstraße",
+      "addr:suburb": "Hansaviertel",
+      "amenity": "fuel",
+      "fuel:cng": "yes",
+      "fuel:lpg": "yes",
+      "name": "Esso",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 27409122,
+    "lat": 52.5188609,
+    "lon": 13.3029397,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:diesel": "yes",
+      "fuel:octane_91": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "kiosk": "yes",
+      "name": "SUN",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 29997723,
+    "lat": 52.5083702,
+    "lon": 13.2809474,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "8-10",
+      "addr:postcode": "14057",
+      "addr:street": "Messedamm",
+      "amenity": "fuel",
+      "brand": "Aral",
+      "fuel:GTL_diesel": "yes",
+      "fuel:adblue": "yes",
+      "fuel:cng": "yes",
+      "fuel:diesel": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_100": "yes",
+      "fuel:octane_91": "yes",
+      "fuel:octane_95": "yes",
+      "name": "Aral Tankstelle",
+      "opening_hours": "24/7",
+      "operator": "Deutsche BP",
+      "shop": "kiosk",
+      "surveillance": "outdoor",
+      "website": "http://tankstelle.aral.de/tankstelle/berlin/messedamm-6/28601500/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 60436247,
+    "lat": 52.5775941,
+    "lon": 13.3065236,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "16",
+      "addr:postcode": "13509",
+      "addr:street": "Wittestraße",
+      "addr:suburb": "Tegel",
+      "amenity": "fuel",
+      "brand": "HEM",
+      "fuel:diesel": "yes",
+      "fuel:octane_91": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "HEM",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 60436516,
+    "lat": 52.5633411,
+    "lon": 13.3297289,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "12,13",
+      "addr:postcode": "13405",
+      "addr:street": "Scharnweberstraße",
+      "addr:suburb": "Reinickendorf",
+      "amenity": "fuel",
+      "brand": "Aral",
+      "name": "Aral",
+      "operator": "Klaus Guthmann"
+    }
+  },
+  {
+    "type": "node",
+    "id": 60959479,
+    "lat": 52.4794844,
+    "lon": 13.3133258,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "Sprint",
+      "opening_hours": "24/7",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 61818198,
+    "lat": 52.4924086,
+    "lon": 13.3091456,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "9-10",
+      "addr:postcode": "10709",
+      "addr:street": "Westfälische Straße",
+      "amenity": "fuel",
+      "brand": "Aral",
+      "fuel:diesel": "yes",
+      "fuel:octane_95": "yes",
+      "name": "Aral",
+      "opening_hours": "24/7",
+      "operator": "Aral",
+      "phone": "+49 30 86409379",
+      "website": "http://tankstelle.aral.de/tankstelle/berlin/westfaelische-strasse-9-10/28608100/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 64707597,
+    "lat": 52.5138544,
+    "lon": 13.421876,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "12/14",
+      "addr:postcode": "10179",
+      "addr:street": "Holzmarktstraße",
+      "amenity": "fuel",
+      "brand": "Aral",
+      "fuel:diesel": "yes",
+      "fuel:gts_diesel": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_100": "yes",
+      "fuel:octane_95": "yes",
+      "name": "Aral",
+      "opening_hours": "24/7",
+      "phone": "+49 30 24720748",
+      "website": "http://tankstelle.aral.de/tankstelle/berlin/holzmarktstrasse-1214/27100000/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 68363395,
+    "lat": 52.4971705,
+    "lon": 13.4497838,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "2",
+      "addr:postcode": "10997",
+      "addr:street": "Vor dem Schlesischen Tor",
+      "addr:suburb": "Kreuzberg",
+      "amenity": "fuel",
+      "cmt": "ref=tankstellennumber found on the reciept",
+      "name": "Aral Tankstelle",
+      "operator": "Yvonne Hoffmann",
+      "phone": "+49 30 61286590",
+      "ref": "0110346129",
+      "website": "http://www.aral.de/tankstelle/berlin/vor_dem_schlesischen_tor/11034600.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 76474858,
+    "lat": 52.4929806,
+    "lon": 13.3313772,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "200",
+      "addr:postcode": "10717",
+      "addr:street": "Bundesallee",
+      "amenity": "fuel",
+      "name": "Shell Tankstelle",
+      "operator": "Shell",
+      "phone": "+49 30 2112352",
+      "website": "http://www.shell.de",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 83502731,
+    "lat": 52.5519257,
+    "lon": 13.5500809,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "246",
+      "addr:postcode": "12679",
+      "addr:street": "Märkische Allee",
+      "addr:suburb": "Marzahn",
+      "amenity": "fuel",
+      "name": "Jet",
+      "source": "Geoportal Berlin / Hauskoordinaten"
+    }
+  },
+  {
+    "type": "node",
+    "id": 92879081,
+    "lat": 52.569098,
+    "lon": 13.3791769,
+    "tags": {
+      "amenity": "fuel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 95041105,
+    "lat": 52.5383302,
+    "lon": 13.2409824,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "27",
+      "addr:postcode": "13599",
+      "addr:street": "Nonnendammallee",
+      "addr:suburb": "Haselhorst",
+      "amenity": "fuel",
+      "brand": "Mr. Wash",
+      "contact:phone": "+49 30 3377330",
+      "name": "Mr. Wash",
+      "opening_hours": "Mo-Sa 08:00-19:00;Su 09:00-18:00",
+      "website": "http://www.mrwash.de/standorte/berlin/berlin-spandau",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 101387833,
+    "lat": 52.5475627,
+    "lon": 13.4680868,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Total",
+      "operator": "Total",
+      "surveillance": "outdoor",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 106982118,
+    "lat": 52.5096831,
+    "lon": 13.5312546,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "61",
+      "addr:postcode": "10315",
+      "addr:street": "Alt-Friedrichsfelde",
+      "amenity": "fuel",
+      "fuel:cng": "yes",
+      "name": "Tamoil",
+      "opening_hours": "24/7",
+      "operator": "Deutsche Tamoil",
+      "phone": "+49 30 5129124",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 175706216,
+    "lat": 52.5987115,
+    "lon": 13.3319568,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "181",
+      "addr:postcode": "13437",
+      "addr:street": "Oranienburger Straße",
+      "amenity": "fuel",
+      "brand": "sun",
+      "name": "sun",
+      "opening_hours": "24/7",
+      "operator": "Germania Petrol GmbH",
+      "payment:dkv": "yes",
+      "payment:uta": "yes",
+      "phone": "+49 30 40303921",
+      "website": "http://www.sun-tankstellen.de/sites/station_oranienburger.htm",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 187648557,
+    "lat": 52.5646652,
+    "lon": 13.3358283,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "52",
+      "addr:postcode": "13407",
+      "addr:street": "Holländerstraße",
+      "amenity": "fuel",
+      "brand": "Esso",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Esso",
+      "opening_hours": "24/7",
+      "phone": "+49 30 4962033",
+      "website": "http://www.essofuelfinder.de/425956-mike-praum-berlin",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 201922027,
+    "lat": 52.5320023,
+    "lon": 13.5362627,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Aral"
+    }
+  },
+  {
+    "type": "node",
+    "id": 205064299,
+    "lat": 52.4273627,
+    "lon": 13.3649375,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "51",
+      "addr:postcode": "12249",
+      "addr:street": "Belßstraße",
+      "addr:suburb": "Lankwitz",
+      "amenity": "fuel",
+      "brand": "Agip",
+      "name": "Agip",
+      "phone": "+49307754350",
+      "website": "http://www.exxonmobil.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 247687679,
+    "lat": 52.5588877,
+    "lon": 13.2084444,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "19",
+      "addr:postcode": "13587",
+      "addr:street": "Streitstraße",
+      "addr:suburb": "Hakenfelde",
+      "amenity": "fuel",
+      "name": "Shell Tankstelle",
+      "operator": "Shell",
+      "phone": "+49 30 3354525",
+      "toilets:wheelchair": "no",
+      "website": "http://www.shell.de",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 252656011,
+    "lat": 52.515874,
+    "lon": 13.3012414,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "95",
+      "addr:postcode": "10585",
+      "addr:street": "Kaiser-Friedrich-Straße",
+      "addr:suburb": "Charlottenburg",
+      "amenity": "fuel",
+      "contact:phone": "+49 30 34094693",
+      "contact:website": "http://www.shell.de",
+      "name": "Shell Tankstelle",
+      "note": "Geprüft am 28. Dez 2015",
+      "opening_hours": "24/7",
+      "operator": "Shell"
+    }
+  },
+  {
+    "type": "node",
+    "id": 255328663,
+    "lat": 52.5191778,
+    "lon": 13.2721929,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "151",
+      "addr:postcode": "14050",
+      "addr:street": "Spandauer Damm",
+      "addr:suburb": "Westend",
+      "amenity": "fuel",
+      "name": "Shell Tankstelle",
+      "operator": "Shell",
+      "phone": "030 3040525",
+      "website": "http://www.shell.de",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 255328697,
+    "lat": 52.5270878,
+    "lon": 13.2340454,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "47",
+      "addr:postcode": "13597",
+      "addr:street": "Charlottenburger Chaussee",
+      "amenity": "fuel",
+      "brand": "Jet",
+      "name": "Jet",
+      "opening_hours": "Mo-Fr 05:00-23:00; Sa,Su 06:00-23:00",
+      "operator": "Jet",
+      "phone": "+49 30 30127285",
+      "website": "https://www.jet-tankstellen.de/kraftstoff/filialfinder/XJ05388/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 258535790,
+    "lat": 52.4682682,
+    "lon": 13.3110209,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Aral",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 259814897,
+    "lat": 52.5214343,
+    "lon": 13.5403704,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:GTL_diesel": "yes",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_100": "yes",
+      "fuel:octane_95": "yes",
+      "name": "SB-Tankstelle"
+    }
+  },
+  {
+    "type": "node",
+    "id": 259974805,
+    "lat": 52.5722564,
+    "lon": 13.5649744,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "152",
+      "addr:postcode": "12689",
+      "addr:street": "Ahrensfelder Chaussee",
+      "addr:suburb": "Marzahn",
+      "amenity": "fuel",
+      "name": "Agip"
+    }
+  },
+  {
+    "type": "node",
+    "id": 260631456,
+    "lat": 52.5171696,
+    "lon": 13.1749772,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "343-345",
+      "addr:postcode": "13593",
+      "addr:street": "Heerstraße",
+      "addr:suburb": "Wilhelmstadt",
+      "amenity": "fuel",
+      "brand": "Agip",
+      "contact:fax": "+49-30-36431851",
+      "contact:phone": "+49-30-3613171",
+      "contact:website": "http://www.agip.de/",
+      "name": "Agip",
+      "operator": "Agip",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 260631653,
+    "lat": 52.5361004,
+    "lon": 13.191149,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "41",
+      "addr:postcode": "13583",
+      "addr:street": "Seegefelder Straße",
+      "addr:suburb": "Spandau",
+      "amenity": "fuel",
+      "contact:phone": "030 3333751",
+      "contact:website": "http://www.sprint-tank.com/tankstellen/sprint-tankstelle-seegefelder",
+      "fuel:lpg": "yes",
+      "name": "Sprint",
+      "operator": "Sprint",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 260744445,
+    "lat": 52.4837343,
+    "lon": 13.4785627,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "9",
+      "addr:postcode": "12435",
+      "addr:street": "Bulgarische Straße",
+      "amenity": "fuel",
+      "fuel:cng": "yes",
+      "fuel:lpg": "yes",
+      "name": "Total"
+    }
+  },
+  {
+    "type": "node",
+    "id": 260753895,
+    "lat": 52.4700245,
+    "lon": 13.3709897,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "20",
+      "addr:postcode": "12103",
+      "addr:street": "Schöneberger Straße",
+      "amenity": "fuel",
+      "brand": "Aral",
+      "car_wash": "yes",
+      "fuel:cng": "yes",
+      "name": "Aral",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 262318783,
+    "lat": 52.4531242,
+    "lon": 13.4568677,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Total",
+      "fuel:lpg": "yes",
+      "name": "Total",
+      "operator": "Total",
+      "shop": "convenience",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 263703829,
+    "lat": 52.5132492,
+    "lon": 13.5635805,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "2",
+      "addr:postcode": "12683",
+      "addr:street": "Altentreptower Straße",
+      "amenity": "fuel",
+      "brand": "star",
+      "fax": "03054712691",
+      "fuel:diesel": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Star - Jennifer Bulst",
+      "opening_hours": "24/7",
+      "operator": "ORLEN Deutschland GmbH",
+      "payment:dkv": "yes",
+      "payment:uta": "yes",
+      "phone": "03054712690",
+      "website": "https://www.star.de/service/tankstellenfinder/detail/star-altentreptower-straße-2-berlin-814",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 263703997,
+    "lat": 52.5103423,
+    "lon": 13.5387103,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "64",
+      "addr:postcode": "12683",
+      "addr:street": "Alt-Friedrichsfelde",
+      "amenity": "fuel",
+      "name": "Aral",
+      "operator": "Deutsche BP",
+      "phone": "+49 30 5133078",
+      "surveillance": "outdoor",
+      "website": "http://tankstelle.aral.de/tankstelle/berlin/alt-friedrichsfelde-64/28739400/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 264193115,
+    "lat": 52.6160844,
+    "lon": 13.3005814,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Shell",
+      "opening_hours": "24/7",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 266629176,
+    "lat": 52.5053636,
+    "lon": 13.588028,
+    "tags": {
+      "amenity": "fuel",
+      "name": "SB-Tank",
+      "surveillance": "outdoor",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 267719806,
+    "lat": 52.5044926,
+    "lon": 13.6110566,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "sun",
+      "fuel:HGV_diesel": "yes",
+      "name": "Star",
+      "opening_hours": "24/7",
+      "operator": "Orlen Deutschland",
+      "payment:dkv": "yes",
+      "payment:uta": "yes",
+      "phone": "+49 30 56553882",
+      "surveillance": "outdoor",
+      "website": "http://www.sun-tankstellen.de/sites/station_alt_mahlsdorf.htm",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 268660302,
+    "lat": 52.6207413,
+    "lon": 13.2358995,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Shell",
+      "operator": "Shell"
+    }
+  },
+  {
+    "type": "node",
+    "id": 269167454,
+    "lat": 52.4144951,
+    "lon": 13.4019813,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Esso",
+      "fuel:lpg": "yes",
+      "name": "Esso",
+      "name:de": "Esso",
+      "name:en": "Esso",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 270595145,
+    "lat": 52.4927013,
+    "lon": 13.3905571,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:autogas": "yes",
+      "name": "Esso",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 270814682,
+    "lat": 52.4440966,
+    "lon": 13.2419001,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "47",
+      "addr:postcode": "14163",
+      "addr:street": "Argentinische Allee",
+      "addr:suburb": "Zehlendorf",
+      "amenity": "fuel",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:octane_100": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Tankstelle Krumme Lanke",
+      "operator": "Free petrol station",
+      "phone": "0308134736",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 270814683,
+    "lat": 52.4444646,
+    "lon": 13.2424098,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "49",
+      "addr:postcode": "14163",
+      "addr:street": "Argentinische Allee",
+      "addr:suburb": "Zehlendorf",
+      "amenity": "fuel",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:octane_100": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Aral",
+      "operator": "Aral",
+      "phone": "030 81496169",
+      "website": "http://www.aral.de/tankstelle/berlin/argentinische_allee/11022200.html",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 270814696,
+    "lat": 52.4296886,
+    "lon": 13.223231,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "24",
+      "addr:postcode": "14129",
+      "addr:street": "Potsdamer Chaussee",
+      "amenity": "fuel",
+      "name": "Shell",
+      "operator": "Shell"
+    }
+  },
+  {
+    "type": "node",
+    "id": 270940131,
+    "lat": 52.5077825,
+    "lon": 13.3016781,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "45 b",
+      "addr:postcode": "10627",
+      "addr:street": "Kaiser-Friedrich-Straße",
+      "addr:suburb": "Charlottenburg",
+      "amenity": "fuel",
+      "brand": "Aral",
+      "name": "ARAL",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 271882472,
+    "lat": 52.4652723,
+    "lon": 13.4430158,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "267",
+      "addr:postcode": "12057",
+      "addr:street": "Karl-Marx-Straße",
+      "addr:suburb": "Neukölln",
+      "amenity": "fuel",
+      "brand": "shell",
+      "fuel:adblue": "yes",
+      "fuel:cng": "yes",
+      "fuel:diesel": "yes",
+      "name": "Shell",
+      "opening_hours": "24/7",
+      "operator": "Shell",
+      "phone": "+49 30 6852016",
+      "website": "http://www.shell.de",
+      "wheelchair": "limited",
+      "wheelchair:description": "Keine Behindertentoilette"
+    }
+  },
+  {
+    "type": "node",
+    "id": 272517807,
+    "lat": 52.4891927,
+    "lon": 13.3744405,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "42a",
+      "addr:postcode": "10965",
+      "addr:street": "Kreuzbergstraße",
+      "addr:suburb": "Schöneberg",
+      "amenity": "fuel",
+      "name": "JET Tankstelle",
+      "phone": "+49 30 78895526",
+      "website": "http://www.jet-tankstellen.de",
+      "wheelchair": "limited",
+      "wheelchair:description": "Eingangsbereich ohne Treppenstufe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 273418863,
+    "lat": 52.5040975,
+    "lon": 13.6192806,
+    "tags": {
+      "amenity": "fuel",
+      "man_made": "surveillance",
+      "name": "Agip",
+      "operator": "Agip",
+      "surveillance": "outdoor"
+    }
+  },
+  {
+    "type": "node",
+    "id": 273418893,
+    "lat": 52.5042647,
+    "lon": 13.6243189,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "60",
+      "addr:postcode": "12623",
+      "addr:street": "Alt-Mahlsdorf",
+      "amenity": "fuel",
+      "fuel:cng": "yes",
+      "fuel:lpg": "yes",
+      "man_made": "surveillance",
+      "name": "Total Alt Mahlsdorf",
+      "operator": "Total",
+      "surveillance": "outdoor",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 273428058,
+    "lat": 52.4398228,
+    "lon": 13.3513857,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Aral",
+      "opening_hours": "24/7",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 274968839,
+    "lat": 52.4720058,
+    "lon": 13.5714236,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "124,126",
+      "addr:postcode": "12555",
+      "addr:street": "Kaulsdorfer Straße",
+      "addr:suburb": "Köpenick",
+      "amenity": "fuel",
+      "name": "HEM",
+      "phone": "+493064326324",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 274969218,
+    "lat": 52.454231,
+    "lon": 13.5923446,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "14",
+      "addr:street": "Bellevuestraße",
+      "addr:suburb": "Köpenick",
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "Jet",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 277304996,
+    "lat": 52.4122684,
+    "lon": 13.3472039,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Go",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 279305173,
+    "lat": 52.4490475,
+    "lon": 13.3661359,
+    "tags": {
+      "amenity": "fuel",
+      "name": "HEM",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 279966479,
+    "lat": 52.4451548,
+    "lon": 13.4331678,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Aral",
+      "opening_hours": "24/7",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 281413022,
+    "lat": 52.452062,
+    "lon": 13.5784714,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "4",
+      "addr:street": "Friedrichshagener Straße",
+      "addr:suburb": "Köpenick",
+      "amenity": "fuel",
+      "fuel:biodiesel": "yes",
+      "fuel:diesel": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_91": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Spreves",
+      "shop": "kiosk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 281775191,
+    "lat": 52.5716016,
+    "lon": 13.4296019,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Shell",
+      "operator": "Shell",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 282832827,
+    "lat": 52.4894708,
+    "lon": 13.5758812,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "179",
+      "addr:postcode": "12621",
+      "addr:street": "Chemnitzer Straße",
+      "addr:suburb": "Kaulsdorf",
+      "amenity": "fuel",
+      "brand": "Esso",
+      "fuel:lpg": "yes",
+      "name": "Esso",
+      "operator": "Uwe Schmidt",
+      "phone": "+493056660336",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 283733696,
+    "lat": 52.521361,
+    "lon": 13.4990227,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "name": "Jet",
+      "opening_hours": "24/7",
+      "shop": "convenience",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 288485788,
+    "lat": 52.4558115,
+    "lon": 13.4495874,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:postcode": "12359",
+      "addr:street": "Buschkrugallee",
+      "addr:suburb": "Britz",
+      "amenity": "fuel",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:octane_95": "yes",
+      "name": "Aral-Tankstelle",
+      "operator": "Aral",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 289681341,
+    "lat": 52.4829802,
+    "lon": 13.5022058,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "6",
+      "addr:postcode": "10317",
+      "addr:street": "Blockdammweg",
+      "amenity": "fuel",
+      "fuel:cng": "yes",
+      "fuel:lpg": "yes",
+      "name": "Total",
+      "surveillance": "outdoor"
+    }
+  },
+  {
+    "type": "node",
+    "id": 290188321,
+    "lat": 52.5004782,
+    "lon": 13.3766736,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "33-35",
+      "addr:postcode": "10963",
+      "addr:street": "Tempelhofer Ufer",
+      "addr:suburb": "Kreuzberg",
+      "amenity": "fuel",
+      "brand": "Total",
+      "car_wash": "yes",
+      "currency:others": "no",
+      "fax": "+49 30 2628860",
+      "fuel:GTL_diesel": "yes",
+      "fuel:cng": "yes",
+      "fuel:diesel": "yes",
+      "fuel:kerosene": "no",
+      "fuel:lpg": "yes",
+      "fuel:octane_100": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Total",
+      "opening_hours": "24/7",
+      "operator": "Total",
+      "payment:coins": "yes",
+      "payment:credit_cards": "yes",
+      "payment:notes": "yes",
+      "phone": "+49 30 2621259",
+      "shop": "convenience",
+      "survey:date": "2014-05-09",
+      "website": "http://store.total.de/de/germany/store-total-de/berlin/berlin-tempelhofer-ufer-33-35/ND038133",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 290659635,
+    "lat": 52.6017721,
+    "lon": 13.2433659,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Star",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Star",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 294795274,
+    "lat": 52.5229469,
+    "lon": 13.2034054,
+    "tags": {
+      "amenity": "fuel",
+      "name": "LAT",
+      "operator": "LAT"
+    }
+  },
+  {
+    "type": "node",
+    "id": 295120593,
+    "lat": 52.5369734,
+    "lon": 13.3417491,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "1",
+      "addr:postcode": "13353",
+      "addr:street": "Westhafenstraße",
+      "addr:suburb": "Moabit",
+      "amenity": "fuel",
+      "contact:phone": "+4930390950",
+      "name": "BEHALA",
+      "website": "http://www.behala.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 301111021,
+    "lat": 52.4144679,
+    "lon": 13.5728652,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Total",
+      "fuel:GTL_diesel": "yes",
+      "fuel:diesel": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_91": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Total",
+      "opening_hours": "24/7",
+      "operator": "André Rückmann",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 303068243,
+    "lat": 52.4901196,
+    "lon": 13.3454654,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "67",
+      "addr:postcode": "10779",
+      "addr:street": "Martin-Luther-Straße",
+      "addr:suburb": "Schöneberg",
+      "amenity": "fuel",
+      "brand": "Esso",
+      "currency:EUR": "yes",
+      "currency:others": "no",
+      "fuel:diesel": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Esso Tankstelle",
+      "operator": "Frank Wilke",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:mastercard": "yes",
+      "phone": "+49 30 2141411",
+      "shop": "convenience",
+      "survey:date": "2014-05-20",
+      "website": "http://www.essofuelfinder.de/426309-frank-wilke-berlin",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 304265038,
+    "lat": 52.4191711,
+    "lon": 13.2643834,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "164",
+      "addr:postcode": "14167",
+      "addr:street": "Teltower Damm",
+      "addr:suburb": "Zehlendorf",
+      "amenity": "fuel",
+      "contact:phone": "+49 30 8154587",
+      "contact:website": "https://www.star.de/service/tankstellenfinder/detail/star-teltower-damm-164-berlin-302",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Star",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "website": "http://www.star-tankstellen.de/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 304265039,
+    "lat": 52.4180654,
+    "lon": 13.2656881,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Elan",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 308811402,
+    "lat": 52.5562971,
+    "lon": 13.4148799,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Shell",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 309880944,
+    "lat": 52.5338295,
+    "lon": 13.4523516,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "130",
+      "addr:postcode": "10407",
+      "addr:street": "Storkower Straße",
+      "addr:suburb": "Prenzlauer Berg",
+      "amenity": "fuel",
+      "fuel:diesel": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Jet",
+      "payment:coins": "DKV;Visa;American_express;MasterCard;Maestro",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 312060338,
+    "lat": 52.5828049,
+    "lon": 13.4037075,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "Total",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 312391523,
+    "lat": 52.4994455,
+    "lon": 13.3193638,
+    "tags": {
+      "amenity": "fuel",
+      "atm": "yes",
+      "fuel:lpg": "yes",
+      "name": "Sprint",
+      "operator": "Sprint",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 312946598,
+    "lat": 52.3947523,
+    "lon": 13.4001698,
+    "tags": {
+      "amenity": "fuel",
+      "name": "GO",
+      "note": "LPG 2* ACME"
+    }
+  },
+  {
+    "type": "node",
+    "id": 313006469,
+    "lat": 52.4569476,
+    "lon": 13.4258511,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Esso",
+      "fuel:GTL_diesel": "no",
+      "fuel:HGV_diesel": "yes",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:octane_91": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Esso",
+      "opening_hours": "24/7",
+      "shop": "convenience"
+    }
+  },
+  {
+    "type": "node",
+    "id": 313160280,
+    "lat": 52.613345,
+    "lon": 13.3151959,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "140",
+      "addr:postcode": "13467",
+      "addr:street": "Berliner Straße",
+      "addr:suburb": "Hermsdorf",
+      "amenity": "fuel",
+      "fuel:diesel": "yes",
+      "fuel:octane_91": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "HEM",
+      "surveillance": "outdoor",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 313160419,
+    "lat": 52.6110564,
+    "lon": 13.3189479,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "Star",
+      "operator": "Star",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 316134702,
+    "lat": 52.596489,
+    "lon": 13.3470882,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "160",
+      "addr:postcode": "13435",
+      "addr:street": "Wilhelmsruher Damm",
+      "amenity": "fuel",
+      "brand": "Esso",
+      "fuel:lpg": "yes",
+      "name": "Esso",
+      "opening_hours": "24/7",
+      "operator": "Mike Praum",
+      "phone": "+49 30 4153461",
+      "shop": "convenience",
+      "website": "http://www.essofuelfinder.de/de/426301-mike-praum-berlin"
+    }
+  },
+  {
+    "type": "node",
+    "id": 318731350,
+    "lat": 52.6088139,
+    "lon": 13.3277742,
+    "tags": {
+      "amenity": "fuel",
+      "name": "HEM",
+      "phone": "+493040372555",
+      "website": "http://www.hem-station-rene-lange.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 322544083,
+    "lat": 52.5623096,
+    "lon": 13.3650374,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Total",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 324374904,
+    "lat": 52.5310206,
+    "lon": 13.5200117,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "136",
+      "addr:postcode": "12681",
+      "addr:street": "Rhinstraße",
+      "addr:suburb": "Marzahn",
+      "amenity": "fuel",
+      "contact:phone": "+49 30 54700371",
+      "contact:website": "http://www.mrwash.de/standorte/berlin/berlin-marzahn",
+      "fuel:diesel": "yes",
+      "fuel:octane_95": "yes",
+      "name": "Mr. Wash",
+      "phone": "+49 30 54700371",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 325161320,
+    "lat": 52.5047405,
+    "lon": 13.1805626,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "sun",
+      "contact:phone": "+49 30 62203730",
+      "contact:website": "http://www.sun-tankstellen.de/sites/station_gatower.htm",
+      "name": "Star",
+      "opening_hours": "24/7",
+      "operator": "Germania Petrol GmbH",
+      "payment:dkv": "yes",
+      "payment:uta": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 330356982,
+    "lat": 52.4331577,
+    "lon": 13.4712151,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "148",
+      "addr:postcode": "12351",
+      "addr:street": "Rudower Straße",
+      "addr:suburb": "Gropiusstadt",
+      "amenity": "fuel",
+      "brand": "Sprint",
+      "fuel:lpg": "yes",
+      "name": "Sprint",
+      "note": "LPG 1*DISH; 1*ACME"
+    }
+  },
+  {
+    "type": "node",
+    "id": 330357637,
+    "lat": 52.4130976,
+    "lon": 13.3550932,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "Sprint",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 330495169,
+    "lat": 52.4128048,
+    "lon": 13.3588766,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Star",
+      "fuel:lpg": "yes",
+      "name": "Star",
+      "toilets:wheelchair": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 330499646,
+    "lat": 52.4258913,
+    "lon": 13.3941982,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "306",
+      "addr:postcode": "12107",
+      "addr:street": "Mariendorfer Damm",
+      "addr:suburb": "Mariendorf",
+      "amenity": "fuel",
+      "name": "Go",
+      "operator": "GO"
+    }
+  },
+  {
+    "type": "node",
+    "id": 331479141,
+    "lat": 52.558808,
+    "lon": 13.3706665,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "79",
+      "addr:postcode": "13409",
+      "addr:street": "Residenzstraße",
+      "amenity": "fuel",
+      "brand": "Sprint",
+      "fuel:lpg": "yes",
+      "name": "Sprint Tankstelle",
+      "opening_hours": "05:00-23:00",
+      "phone": "+49 30 49997232",
+      "website": "http://www.sprint-tank.com/tankstellen/sprint-tankstelle-residenzstra%C3%9Fe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 336057250,
+    "lat": 52.5366488,
+    "lon": 13.2218248,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Shell",
+      "operator": "Shell"
+    }
+  },
+  {
+    "type": "node",
+    "id": 339240589,
+    "lat": 52.5226731,
+    "lon": 13.5188307,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "47",
+      "addr:postcode": "10315",
+      "addr:street": "Rhinstraße",
+      "addr:suburb": "Lichtenberg",
+      "amenity": "fuel",
+      "brand": "Star",
+      "contact:phone": "0305437321",
+      "fuel:lpg": "yes",
+      "name": "Star",
+      "opening_hours": "24/7",
+      "operator": "ORLEN Deutschland GmbH",
+      "phone": "+49 30 5437321"
+    }
+  },
+  {
+    "type": "node",
+    "id": 388418547,
+    "lat": 52.563621,
+    "lon": 13.4076934,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "26",
+      "addr:postcode": "13187",
+      "addr:street": "Mühlenstraße",
+      "addr:suburb": "Pankow",
+      "amenity": "fuel",
+      "brand": "Aral",
+      "fuel:e10": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "ARAL",
+      "operator": "Aral",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 428081389,
+    "lat": 52.5611872,
+    "lon": 13.3240255,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "Jet",
+      "opening_hours": "24/7",
+      "phone": "+49 30 41202472",
+      "website": "https://www.jet-tankstellen.de",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 432779736,
+    "lat": 52.5967386,
+    "lon": 13.4663679,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "35",
+      "addr:postcode": "13129",
+      "addr:street": "Karower Damm",
+      "addr:suburb": "Blankenburg",
+      "amenity": "fuel",
+      "name": "Shell",
+      "opening_hours": "Mo-Fr 05:00-22:00; Sa,Su 06:00-22:00",
+      "operator": "Shell",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 443928729,
+    "lat": 52.5624326,
+    "lon": 13.4593752,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Total",
+      "fuel:lpg": "yes",
+      "name": "Total",
+      "shop": "kiosk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 456407461,
+    "lat": 52.4359603,
+    "lon": 13.4653678,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "102",
+      "addr:postcode": "12351",
+      "addr:street": "Rudower Straße",
+      "amenity": "fuel",
+      "brand": "Shell",
+      "name": "Shell",
+      "opening_hours": "Mo-Fr 05:30-23:30; Sa 06:00-23:30; Su 06:00-22:30",
+      "operator": "Shell",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 503248015,
+    "lat": 52.409942,
+    "lon": 13.6664224,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "15",
+      "addr:postcode": "12559",
+      "addr:street": "Gosener Damm",
+      "addr:suburb": "Müggelheim",
+      "amenity": "fuel",
+      "fuel:1_25": "yes",
+      "fuel:1_50": "yes",
+      "fuel:biodiesel": "yes",
+      "fuel:diesel": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_91": "yes",
+      "fuel:octane_95": "yes",
+      "name": "Sprint"
+    }
+  },
+  {
+    "type": "node",
+    "id": 504427277,
+    "lat": 52.4330296,
+    "lon": 13.2376924,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Aral",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 529686827,
+    "lat": 52.4741009,
+    "lon": 13.3388744,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "86",
+      "addr:postcode": "12159",
+      "addr:street": "Hauptstraße",
+      "addr:suburb": "Schöneberg",
+      "amenity": "fuel",
+      "brand": "Aral",
+      "name": "ARAL",
+      "operator": "Witold Platkowski",
+      "phone": "+49 30 8515286",
+      "website": "http://www.aral.de",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 530090079,
+    "lat": 52.4809124,
+    "lon": 13.5021542,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "1",
+      "addr:postcode": "12459",
+      "addr:street": "Rummelsburger Landstraße",
+      "addr:suburb": "Karlshorst",
+      "amenity": "fuel",
+      "contact:phone": "+49 30 53780043",
+      "name": "Shell",
+      "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00",
+      "operator": "S&K Tankstellen GmbH"
+    }
+  },
+  {
+    "type": "node",
+    "id": 539771910,
+    "lat": 52.4255117,
+    "lon": 13.4742439,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Esso",
+      "operator": "Esso",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 604272892,
+    "lat": 52.5428256,
+    "lon": 13.5005492,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "69-72",
+      "addr:postcode": "13055",
+      "addr:street": "Genslerstraße",
+      "addr:suburb": "Alt-Hohenschönhausen",
+      "amenity": "fuel",
+      "automated": "yes",
+      "name": "Oil Tank & Go",
+      "opening_hours": "24/7",
+      "website": "http://www.oil-tankstellen.de/index.php?con=tsfinder_details&login=&id=276"
+    }
+  },
+  {
+    "type": "node",
+    "id": 667211367,
+    "lat": 52.5136091,
+    "lon": 13.2659797,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "13,14",
+      "addr:postcode": "14052",
+      "addr:street": "Reichsstraße",
+      "addr:suburb": "Westend",
+      "amenity": "fuel",
+      "brand": "Aral",
+      "contact:phone": "+49 30 3042708",
+      "contact:website": "https://www.aral.de/",
+      "fuel:GTL_diesel": "yes",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:octane_102": "yes",
+      "fuel:octane_95": "yes",
+      "name": "Aral",
+      "opening_hours": "24/7",
+      "operator": "Anne Notzke",
+      "payment:dkv": "yes",
+      "payment:routex": "yes",
+      "payment:uta": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 667211388,
+    "lat": 52.5148615,
+    "lon": 13.2624559,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "86",
+      "addr:postcode": "14052",
+      "addr:street": "Reichsstraße",
+      "addr:suburb": "Westend",
+      "amenity": "fuel",
+      "brand": "Total",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Total Access",
+      "phone": "+49 30 33771951",
+      "website": "http://store.total.de/de_DE/ND040600",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 669888809,
+    "lat": 52.5286962,
+    "lon": 13.4179988,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "1",
+      "addr:postcode": "10405",
+      "addr:street": "Prenzlauer Allee",
+      "addr:suburb": "Prenzlauer Berg",
+      "amenity": "fuel",
+      "fuel:diesel": "yes",
+      "fuel:gts_diesel": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_91": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "kiosk": "yes",
+      "name": "Total Station",
+      "opening_hours": "24/7",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 669891011,
+    "lat": 52.5307982,
+    "lon": 13.4412623,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "2",
+      "addr:postcode": "10407",
+      "addr:street": "Margarete-Sommer-Straße",
+      "amenity": "fuel",
+      "brand": "Total",
+      "drink:club-mate": "retail",
+      "fuel:diesel": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_91": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "kiosk": "yes",
+      "name": "Total Station",
+      "opening_hours": "24/7",
+      "phone": "+49 30 42852514",
+      "website": "http://store.total.de/de/germany/store-total-de/berlin/berlin-margarete-sommer-str-2/ND020487",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 719148028,
+    "lat": 52.4527676,
+    "lon": 13.4260843,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "74-90",
+      "addr:postcode": "12347",
+      "addr:street": "Gradestraße",
+      "addr:suburb": "Britz",
+      "amenity": "fuel",
+      "fuel:lpg": "no",
+      "note": "STand Mai 2010: Tankanlage defekt, bis auf weiters kein Tanken möglich.",
+      "operator": "Tyczka Totalgaz GmbH",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 732711898,
+    "lat": 52.5050706,
+    "lon": 13.575021,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:postcode": "12683",
+      "addr:street": "Alt-Biesdorf",
+      "addr:suburb": "Biesdorf",
+      "amenity": "fuel",
+      "fuel:1_25": "no",
+      "fuel:1_50": "no",
+      "fuel:GTL_diesel": "no",
+      "fuel:HGV_diesel": "no",
+      "fuel:biodiesel": "no",
+      "fuel:cng": "no",
+      "fuel:diesel": "no",
+      "fuel:e10": "no",
+      "fuel:e85": "no",
+      "fuel:lpg": "yes",
+      "fuel:octane_100": "no",
+      "fuel:octane_80": "no",
+      "fuel:octane_91": "no",
+      "fuel:octane_92": "no",
+      "fuel:octane_95": "no",
+      "fuel:octane_98": "no",
+      "name": "FGK-Flüssiggas Komplet",
+      "opening_hours": "Mo-Fr 07:00-18:00; Sa 09:00-13:00",
+      "source": "http://www.gas-tankstellen.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 732712010,
+    "lat": 52.522,
+    "lon": 13.2852,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:postcode": "14059",
+      "addr:street": "Sophie-Charlotten-Straße",
+      "addr:suburb": "Charlottenburg",
+      "amenity": "fuel",
+      "fuel:cng": "no",
+      "fuel:lpg": "yes",
+      "name": "Autogas Fernholz Apparat...",
+      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-14:00",
+      "source": "http://www.gas-tankstellen.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 732712038,
+    "lat": 52.50499,
+    "lon": 13.57593,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:postcode": "12683",
+      "addr:street": "Alt-Biesdorf",
+      "addr:suburb": "Biesdorf",
+      "amenity": "fuel",
+      "automated": "yes",
+      "fuel:1_25": "no",
+      "fuel:1_50": "no",
+      "fuel:GTL_diesel": "no",
+      "fuel:HGV_diesel": "no",
+      "fuel:biodiesel": "no",
+      "fuel:cng": "no",
+      "fuel:diesel": "no",
+      "fuel:e10": "no",
+      "fuel:e85": "no",
+      "fuel:lpg": "yes",
+      "fuel:octane_100": "no",
+      "fuel:octane_80": "no",
+      "fuel:octane_91": "no",
+      "fuel:octane_92": "no",
+      "fuel:octane_95": "no",
+      "fuel:octane_98": "no",
+      "name": "Grit Jarling",
+      "source": "http://www.gas-tankstellen.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 732712218,
+    "lat": 52.61792,
+    "lon": 13.45,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:postcode": "13125",
+      "addr:suburb": "Französisch Buchholz",
+      "amenity": "fuel",
+      "fuel:cng": "no",
+      "fuel:lpg": "yes",
+      "name": "BarMal Gas GmbH",
+      "source": "http://www.gas-tankstellen.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 732714021,
+    "lat": 52.5951184,
+    "lon": 13.2843913,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "Streiber & Beetz",
+      "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+      "postal_code": "13507",
+      "source": "http://www.gas-tankstellen.de",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 732714056,
+    "lat": 52.4701696,
+    "lon": 13.384595,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "108",
+      "addr:postcode": "12099",
+      "addr:street": "Tempelhofer Damm",
+      "addr:suburb": "Tempelhof",
+      "amenity": "fuel",
+      "automated": "yes",
+      "contact:addr:city": "Ludwigsfelde",
+      "contact:addr:postcode": "14974",
+      "contact:addr:street": "Seestraße 33",
+      "contact:phone": "+49 (0)177 2085863",
+      "email": "office@barmalgas.de",
+      "fax": "+49 (0)3378 2089 501",
+      "fuel:cng": "no",
+      "fuel:lpg": "yes",
+      "name": "BarMal Gas GmbH",
+      "phone": "+49 (0)3378 2089 500",
+      "source": "http://www.gas-tankstellen.de",
+      "website": "http://www.barmalgas.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 732714957,
+    "lat": 52.5838443,
+    "lon": 13.31511,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:postcode": "13509",
+      "addr:suburb": "Borsigwalde",
+      "amenity": "fuel",
+      "fuel:cng": "no",
+      "fuel:lpg": "yes",
+      "name": "Hager Autogas Service",
+      "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00",
+      "source": "http://www.gas-tankstellen.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 732715804,
+    "lat": 52.5945098,
+    "lon": 13.4348908,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:postcode": "13127",
+      "addr:suburb": "Französisch Buchholz",
+      "amenity": "fuel",
+      "fuel:cng": "no",
+      "fuel:lpg": "yes",
+      "name": "Peter Lindner GmbH",
+      "opening_hours": "Mo-Tu 07:00-14:00; We-Th 07:00-18:00; Fr 07:00-14:00",
+      "source": "http://www.gas-tankstellen.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 732715973,
+    "lat": 52.5400351,
+    "lon": 13.183009,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "51",
+      "addr:postcode": "13583",
+      "addr:street": "Zeppelinstraße",
+      "addr:suburb": "Spandau",
+      "amenity": "fuel",
+      "contact:fax": "+49 30 65667813",
+      "contact:phone": "+49 30 36468363",
+      "contact:website": "http://www.spreves.com",
+      "fuel:cng": "no",
+      "fuel:lpg": "yes",
+      "name": "Spreves Tankstelle",
+      "opening_hours": "24/7",
+      "source": "http://www.gas-tankstellen.de",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 761411562,
+    "lat": 52.4225335,
+    "lon": 13.4869155,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "294",
+      "addr:postcode": "12357",
+      "addr:street": "Neuköllner Straße",
+      "addr:suburb": "Rudow",
+      "amenity": "fuel",
+      "brand": "Total",
+      "operator": "TOTAL Deutschland GmbH",
+      "phone": "+49 30 6613037",
+      "website": "https://www.total.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 779036971,
+    "lat": 52.5612912,
+    "lon": 13.3673612,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:lpg": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 808169779,
+    "lat": 52.5709988,
+    "lon": 13.3301577,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "101",
+      "addr:postcode": "13403",
+      "addr:street": "Ollenhauerstraße",
+      "addr:suburb": "Reinickendorf",
+      "amenity": "fuel",
+      "fuel:cng": "yes",
+      "name": "Shell",
+      "opening_hours": "24/7",
+      "phone": "+49 30 41700522",
+      "website": "http://www.shell.de",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1120057606,
+    "lat": 52.5861458,
+    "lon": 13.4299506,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Aral",
+      "fuel:lpg": "yes",
+      "name": "Aral",
+      "opening_hours": "Mo-Su,PH 00:00-24:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1120057632,
+    "lat": 52.5818981,
+    "lon": 13.4098646,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "36",
+      "addr:postcode": "13156",
+      "addr:street": "Blankenburger Straße",
+      "amenity": "fuel",
+      "fuel:autogas": "yes",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "bft",
+      "opening_hours": "24/7",
+      "operator": "Sven Mummhardt",
+      "phone": "+49 30 48626980",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1184134376,
+    "lat": 52.5764974,
+    "lon": 13.3788393,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Tamoil",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:octane_100": "yes",
+      "fuel:octane_98": "yes",
+      "name": "HEM",
+      "opening_hours": "Mo-Su,PH 05:00-23:00",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1279628530,
+    "lat": 52.5678996,
+    "lon": 13.4283806,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Hem",
+      "fuel:adblue": "yes",
+      "fuel:lpg": "yes",
+      "name": "HEM",
+      "operator": "Hem"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1406258332,
+    "lat": 52.6009857,
+    "lon": 13.4324401,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Shell",
+      "name": "Shell"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1456142872,
+    "lat": 52.5503051,
+    "lon": 13.2975467,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:postcode": "13405",
+      "addr:street": "Flughafen Tegel",
+      "addr:suburb": "Tegel",
+      "amenity": "fuel",
+      "brand": "Independent",
+      "fuel:cng": "yes",
+      "fuel:diesel": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "ARWE",
+      "opening_hours": "Mo-Fr 06:00-22:00; Sa 08:00-20:00; Su 08:00-22:00",
+      "operator": "FOX",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:maestro": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "shop": "convenience"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1549545406,
+    "lat": 52.5654262,
+    "lon": 13.4722098,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "HEM",
+      "surveillance": "outdoor"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1556354599,
+    "lat": 52.560816,
+    "lon": 13.4667754,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Star",
+      "fuel:diesel": "yes",
+      "fuel:e10": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Star",
+      "opening_hours": "24/7",
+      "payment:dkv": "yes",
+      "payment:uta": "yes",
+      "phone": "+49 30 91147921",
+      "website": "http://www.sun-tankstellen.de/sites/station_berliner_allee.htm"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1652078566,
+    "lat": 52.4576326,
+    "lon": 13.1494846,
+    "tags": {
+      "amenity": "fuel",
+      "diesel": "yes",
+      "ethanol": "no",
+      "fuel:biodiesel": "no",
+      "fuel:lpg": "no",
+      "fuel:octane_100": "no",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "BfT Tankstelle",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1714848015,
+    "lat": 52.6193754,
+    "lon": 13.3042924,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "180",
+      "addr:postcode": "13467",
+      "addr:street": "Hermsdorfer Damm",
+      "addr:suburb": "Hermsdorf",
+      "amenity": "fuel",
+      "name": "SPREVES",
+      "phone": "+49 30 40584326",
+      "website": "http://www.spreves.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1745498209,
+    "lat": 52.4249246,
+    "lon": 13.4424508,
+    "tags": {
+      "amenity": "fuel",
+      "name": "SHELL",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1892331562,
+    "lat": 52.4657644,
+    "lon": 13.4429947,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "259-263",
+      "addr:postcode": "12057",
+      "addr:street": "Karl-Marx-Straße",
+      "amenity": "fuel",
+      "brand": "JET",
+      "name": "Jet",
+      "opening_hours": "24/7",
+      "operator": "JET",
+      "phone": "+49 30 56823849",
+      "website": "https://www.jet-tankstellen.de/kraftstoff/filialfinder/XJ05811"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1926331288,
+    "lat": 52.5489936,
+    "lon": 13.1788104,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "50",
+      "addr:postcode": "13583",
+      "addr:street": "Falkenseer Chaussee",
+      "addr:suburb": "Falkenhagener Feld",
+      "amenity": "fuel",
+      "brand": "Esso",
+      "contact:phone": "+49 30 3721452",
+      "contact:website": "http://www.esso.de",
+      "fuel:lpg": "yes",
+      "name": "Esso",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1964624280,
+    "lat": 52.5353743,
+    "lon": 13.3503177,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "33",
+      "addr:postcode": "10559",
+      "addr:street": "Quitzowstraße",
+      "amenity": "fuel",
+      "contact:phone": "+49 30 3964044",
+      "description": "Zufahrt über Ellen-Epstein-Straße",
+      "fuel:adblue": "yes",
+      "name": "Westfehling",
+      "opening_hours": "Mo-Fr 05:00-22:00; Sa 07:00-22:00; Su 09:00-22:00",
+      "source:opening_hours": "http://www.westfehling-tankstelle.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2018197565,
+    "lat": 52.4259362,
+    "lon": 13.4822702,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Aral",
+      "fuel:diesel": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "operator": "Jörg Blankenburg"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2018197595,
+    "lat": 52.4286423,
+    "lon": 13.4798381,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Aral",
+      "name": "Aral",
+      "name:de": "Aral",
+      "name:en": "Aral",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2164964125,
+    "lat": 52.4650064,
+    "lon": 13.3672205,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:lpg": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2292708704,
+    "lat": 52.5453216,
+    "lon": 13.3615435,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "22b-23",
+      "addr:postcode": "13353",
+      "addr:street": "Müllerstraße",
+      "addr:suburb": "Wedding",
+      "amenity": "fuel",
+      "contact:phone": "030 46064512",
+      "name": "Shell",
+      "operator": "Shell",
+      "website": "http://www.shell.de",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2315735171,
+    "lat": 52.4569978,
+    "lon": 13.4364253,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "60",
+      "addr:postcode": "12347",
+      "addr:street": "Britzer Damm",
+      "addr:suburb": "Britz",
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "Total Tankstelle",
+      "operator": "Total"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2410768775,
+    "lat": 52.434705,
+    "lon": 13.5590835,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "107",
+      "addr:postcode": "12489",
+      "addr:street": "Glienicker Weg",
+      "addr:suburb": "Adlershof",
+      "amenity": "fuel",
+      "name": "Flüssiggas Ritter",
+      "wheelchair": "limited",
+      "wheelchair:description": "Automatentankstelle"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2436436682,
+    "lat": 52.5916947,
+    "lon": 13.3466533,
+    "tags": {
+      "amenity": "fuel",
+      "operator": "Agio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2875569869,
+    "lat": 52.5293495,
+    "lon": 13.2072483,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "1A",
+      "addr:inclusion": "actual",
+      "addr:postcode": "13597",
+      "addr:street": "Ruhlebener Straße",
+      "addr:suburb": "Spandau",
+      "amenity": "fuel",
+      "contact:website": "http://www.sprint-tank.com",
+      "fuel:cng": "yes",
+      "fuel:lpg": "yes",
+      "name": "Sprint Tankstelle, Ruhlebener Straße",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "operator": "Sprint Tankstelle",
+      "source": "www.sprint-tank.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2879827701,
+    "lat": 52.5428548,
+    "lon": 13.1993023,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "16",
+      "addr:postcode": "13585",
+      "addr:street": "Falkenseer Damm",
+      "addr:suburb": "Spandau",
+      "amenity": "fuel",
+      "brand": "ARAL",
+      "contact:phone": "+49 30 3333811",
+      "contact:website": "http://www.aral.de/tankstelle/berlin/falkenseer_damm/11019900.html",
+      "name": "Aral Tankstelle",
+      "opening_hours": "24/7",
+      "operator": "Hendrik Bolt",
+      "toilets:wheelchair": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2959358286,
+    "lat": 52.6036855,
+    "lon": 13.4324448,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "70A",
+      "addr:postcode": "13127",
+      "addr:street": "Hauptstraße",
+      "addr:suburb": "Französisch Buchholz",
+      "amenity": "fuel",
+      "brand": "Jet",
+      "opening_hours": "24/7",
+      "source": "Geoportal Berlin / Hauskoordinaten"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3096958384,
+    "lat": 52.4403309,
+    "lon": 13.3811533,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "42",
+      "addr:postcode": "12105",
+      "addr:street": "Rathausstraße",
+      "addr:suburb": "Mariendorf",
+      "amenity": "fuel",
+      "brand": "BarMalGas GmbH",
+      "fuel:lpg": "yes",
+      "name": "BarMalGas GmbH",
+      "opening_hours": "24/7",
+      "operator": "BarMalGas GmbH",
+      "shop": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3149313946,
+    "lat": 52.4519744,
+    "lon": 13.4245066,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "Autogas 24h",
+      "operator": "Linde"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3241436496,
+    "lat": 52.5353899,
+    "lon": 13.4508052,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "116",
+      "addr:postcode": "10407",
+      "addr:street": "Storkower Straße",
+      "addr:suburb": "Prenzlauer Berg",
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "Elan",
+      "phone": "+49 30 4217562",
+      "ref": "Sauermann, 9548",
+      "toilets:wheelchair": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3273363412,
+    "lat": 52.5127711,
+    "lon": 13.3194597,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "1-2",
+      "addr:street": "Bismarckstraße",
+      "addr:suburb": "Charlottenburg",
+      "amenity": "fuel",
+      "name": "Aral",
+      "opening_hours": "24/7",
+      "operator": "Torsten Hauser",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3404338422,
+    "lat": 52.5082671,
+    "lon": 13.2605921,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "35,37",
+      "addr:postcode": "14055",
+      "addr:street": "Jafféstraße",
+      "addr:suburb": "Westend",
+      "amenity": "fuel",
+      "fuel:HGV_diesel": "yes",
+      "fuel:adblue": "yes",
+      "fuel:cng": "yes",
+      "fuel:diesel": "yes",
+      "fuel:lpg": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Total",
+      "opening_hours": "24/7",
+      "operator": "Total",
+      "phone": "030 50569275"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3529761293,
+    "lat": 52.4299508,
+    "lon": 13.3120753,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "25",
+      "addr:postcode": "12207",
+      "addr:street": "Barnackufer",
+      "addr:suburb": "Lichterfelde",
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "Sprint Tankstelle, 24h"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3835317332,
+    "lat": 52.43519,
+    "lon": 13.3704543,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "10",
+      "addr:postcode": "12107",
+      "addr:street": "Greinerstraße",
+      "addr:suburb": "Mariendorf",
+      "amenity": "fuel",
+      "fuel:cng": "no",
+      "fuel:lpg": "yes",
+      "name": "Propan Geppert",
+      "opening_hours": "Mo-Fr 07:00-17:00; Sa 09:00-12:00",
+      "source": "http://www.gas-tankstellen.de",
+      "website": "http://www.propan-geppert.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3876775720,
+    "lat": 52.558839,
+    "lon": 13.4915755,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "sun",
+      "name": "sun",
+      "opening_hours": "24/7",
+      "operator": "Germania Petrol GmbH",
+      "payment:dkv": "yes",
+      "payment:uta": "yes",
+      "phone": "+49 30 92094255",
+      "website": "http://www.sun-tankstellen.de/sites/station_hansastrasse.htm",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4316892750,
+    "lat": 52.4310723,
+    "lon": 13.5527829,
+    "tags": {
+      "amenity": "fuel",
+      "name": "CleanCar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4583828565,
+    "lat": 52.4587583,
+    "lon": 13.4218947,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "10",
+      "addr:postcode": "12099",
+      "addr:street": "Tempelhofer Weg",
+      "amenity": "fuel",
+      "fuel:diesel": "yes",
+      "name": "Hans Engelke Energie",
+      "opening_hours": "Mo-Fr 08:00-17:00; Sa 09:00-13:00",
+      "operator": "Hans Engelke",
+      "website": "http://hans-engelke.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4739295522,
+    "lat": 52.5773118,
+    "lon": 13.3144029,
+    "tags": {
+      "amenity": "fuel",
+      "fuel:lpg": "yes",
+      "name": "Nordtanke",
+      "opening_hours": "07:00-19:00",
+      "operator": "NORD-TANKE GmbH",
+      "shop": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4861851964,
+    "lat": 52.5552701,
+    "lon": 13.3424699,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "114 A",
+      "addr:postcode": "13349",
+      "addr:street": "Müllerstraße",
+      "amenity": "fuel",
+      "description": "Ehmalige Tankstelle, die jetzt Als Werkstatt genutzt wird"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5461656137,
+    "lat": 52.4586228,
+    "lon": 13.3970949,
+    "tags": {
+      "amenity": "fuel",
+      "brand": "Independent",
+      "fuel:HGV_diesel": "yes",
+      "fuel:diesel": "yes",
+      "opening_hours": "24/7",
+      "payment:cash": "no",
+      "shop": "no",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5524953630,
+    "lat": 52.4518712,
+    "lon": 13.3850451,
+    "tags": {
+      "amenity": "fuel",
+      "name": "Q1",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5567907903,
+    "lat": 52.5544517,
+    "lon": 13.2071662,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:housenumber": "84",
+      "addr:postcode": "13587",
+      "addr:street": "Streitstraße",
+      "amenity": "fuel",
+      "brand": "Total",
+      "fuel:adblue": "yes",
+      "fuel:diesel": "yes",
+      "fuel:octane_95": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5682315336,
+    "lat": 52.4133424,
+    "lon": 13.2778349,
+    "tags": {
+      "addr:city": "Berlin",
+      "addr:country": "DE",
+      "addr:housenumber": "281",
+      "addr:postcode": "14167",
+      "addr:street": "Goerzallee",
+      "addr:suburb": "Lichterfelde",
+      "amenity": "fuel",
+      "brand": "Jet",
+      "fuel:adblue": "yes",
+      "fuel:e10": "yes",
+      "fuel:octane_95": "yes",
+      "fuel:octane_98": "yes",
+      "name": "Jet",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "operator": "Sandra Jacobsen",
+      "payment:dkv": "yes",
+      "payment:uta": "yes",
+      "wheelchair": "yes"
+    }
+  }
+]
