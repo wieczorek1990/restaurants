@@ -17,8 +17,16 @@ cd restaurants
 
 ./instal.fish
 
-./run.fish
+./run_dev.fish
+# or
+./run_prod.fish
+```
 
+# Docker
+
+```
+sudo apt install -y docker.io docker-compose
+docker-compose up
 ```
 
 # Routes
@@ -26,3 +34,11 @@ cd restaurants
 * `/restaurants/near/:lat/:lon`
 * `/restaurants/near/:address`
 * `/restaurants/combo/:cuisine_a/:cuisine_b`
+
+# Sample queries
+
+```
+http GET 'localhost:5000/restaurants/near/52.538554/13.4102856'
+http GET 'localhost:5000/restaurants/near/Berlin'
+http GET 'localhost:5000/restaurants/combo/noodles/vietnamese'
+```

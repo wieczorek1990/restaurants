@@ -1,3 +1,3 @@
 #!/usr/bin/fish
 
-flake8 main.py
+flake8 geo.py main.py tests.py
